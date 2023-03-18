@@ -28,7 +28,7 @@ Acessar o arquivo .env e adicionar as credenciais do MySql
 # Instale as dependências
 $ pip install -r requirements.txt
 
-# Execute a aplicação em modo de desenvolvimento
+# Execute a aplicação 
 $ python app.py
 
 ```
